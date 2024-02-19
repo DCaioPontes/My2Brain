@@ -1,0 +1,147 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "twemoji",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "BoBxDuplicate",
+      "BoBxsDuplicate",
+      "FasGaugeSimpleHigh",
+      "BoBxlPython",
+      "FasIndustry"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":"
+  },
+  "Aprendizagem/Idiomas": "🌏",
+  "Aprendizagem/Como aprender": "❓",
+  "Aprendizagem": "📖",
+  "Aprendizagem/Idiomas/Ingles": "🗽",
+  "Aprendizagem/Idiomas/Alemao": "🍻",
+  "Aprendizagem/Cursos": "🛸",
+  "Aprendizagem/Cursos/DotNet/Challenges": "🏆",
+  "Projetos": "🏗",
+  "Kromos": {
+    "iconName": "SiKlook",
+    "iconColor": "#ff9500"
+  },
+  "Kromos/Sankhya": {
+    "iconName": "SiSocketdotio",
+    "iconColor": "#56d776"
+  },
+  "Aprendizagem/Cursos/DotNet": {
+    "iconName": "SiDotnet",
+    "iconColor": "#3c57c3"
+  },
+  "Aprendizagem/Cursos/Java": {
+    "iconName": "BoBxlJava",
+    "iconColor": "#fd1717"
+  },
+  "Aprendizagem/Cursos/Java/Challenges": "🏆",
+  "Aprendizagem/Cursos/Orientação de objeto": {
+    "iconName": "FasDiagramProject",
+    "iconColor": "#7df2e4"
+  },
+  "Aprendizagem/Cursos/Java/Aula_025": {
+    "iconName": "CoCheck",
+    "iconColor": "#00ff00"
+  },
+  "Aprendizagem/Cursos/Java/Aula_026": {
+    "iconName": "CoCheck",
+    "iconColor": "#00ff00"
+  },
+  "Aprendizagem/Cursos/Java/Aula_027": {
+    "iconName": "CoCheck",
+    "iconColor": "#00ff00"
+  },
+  "Aprendizagem/Cursos/Java/Aula_028": {
+    "iconName": "CoCheck",
+    "iconColor": "#00ff00"
+  },
+  "Aprendizagem/Cursos/Java/Aula_029": {
+    "iconName": "CoCheck",
+    "iconColor": "#00ff00"
+  },
+  "Aprendizagem/Cursos/Java/Aula_030": {
+    "iconName": "CoCheck",
+    "iconColor": "#00ff00"
+  },
+  "Ref": {
+    "iconName": "FiLink",
+    "iconColor": "#2b8bd4"
+  },
+  "Design Patterns": {
+    "iconName": "FasFolderTree",
+    "iconColor": "#8c2503"
+  },
+  "Aprendizagem/Cursos/Java/Aula_031": {
+    "iconName": "CoCheck",
+    "iconColor": "#00ff00"
+  },
+  "Aprendizagem/Cursos/Java/Aula_032": {
+    "iconName": "CoCheck",
+    "iconColor": "#00ff00"
+  },
+  "Aprendizagem/Cursos/Java/Aula_033": {
+    "iconName": "CoCheck",
+    "iconColor": "#00ff00"
+  },
+  "Aprendizagem/Cursos/Lógica de programação": {
+    "iconName": "SiCodereview",
+    "iconColor": "#60d016"
+  },
+  "Aprendizagem/Cursos/Java/Aula_034": {
+    "iconName": "CoCheck",
+    "iconColor": "#00ff00"
+  },
+  "Aprendizagem/Cursos/Python": {
+    "iconName": "SiPython",
+    "iconColor": "#1aa832"
+  },
+  "Aprendizagem/Universidade/Clonar conteúdo digital.md": {
+    "iconName": "BoBxsDuplicate",
+    "iconColor": "#4d4a28"
+  },
+  "Universidade": "🎓",
+  "Universidade/Banco de dados": {
+    "iconName": "FasDatabase",
+    "iconColor": "#f278ee"
+  },
+  "Universidade/Clonar conte｣do digital.md": {
+    "iconName": "BoBxDuplicate",
+    "iconColor": "#c2c2c2"
+  },
+  "Universidade/Engenharia da computação": {
+    "iconName": "LiConstruction",
+    "iconColor": "#eac71a"
+  },
+  "Universidade/Geral": "🔎",
+  "Universidade/Inteligencia Artificial": {
+    "iconName": "FasRobot",
+    "iconColor": "#7359a6"
+  },
+  "Universidade/Introdução à segurança da informação": "🔒",
+  "Universidade/Python": {
+    "iconName": "SiPython",
+    "iconColor": "#00c828"
+  },
+  "Universidade/Python/Aplic. de Cloud, Iot e Indústria 4.0 em Python": "FasIndustry",
+  "Universidade/Python/Desenvolvimento Rápido de Aplicações em Python": {
+    "iconName": "FasGaugeSimpleHigh",
+    "iconColor": "#c20a0a"
+  }
+}

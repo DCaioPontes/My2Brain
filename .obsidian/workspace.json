@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "be8391fc19a0caad",
+    "type": "split",
+    "children": [
+      {
+        "id": "d07792ca5e1b50f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cb76d7c4305187e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aprendizagem/Idiomas/Alemao/Wortschatz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ed64669a33fa0ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a4d50bbcdedeb11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "394879b6bdb94ee0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fb8dcaca1bcc04b6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3437d6cd24349442",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0b780d290404af71",
+    "type": "split",
+    "children": [
+      {
+        "id": "37385c30145b1add",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e5f38bdb17e5801",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Aprendizagem/Idiomas/Alemao/Wortschatz.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e43090b791f40eca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4ce8aafb98cdb9b5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Aprendizagem/Idiomas/Alemao/Wortschatz.md"
+              }
+            }
+          },
+          {
+            "id": "a8a32a4c2442cf66",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "af44eb3e668e5797",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Aprendizagem/Idiomas/Alemao/Wortschatz.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "58fb4d48b2d10b5c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 383.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "6cb76d7c4305187e",
+  "lastOpenFiles": [
+    "Método Zettelkasten.md",
+    "Aprendizagem/Idiomas/Alemao/Wortschatz.md",
+    "Aprendizagem/Como aprender/Metodo Zettelkasten.md",
+    "Aprendizagem/Como aprender/App Anki.md",
+    "Universidade/Python/Aplic. de Cloud, Iot e Indústria 4.0 em Python/Theme 01 - Introdução.md",
+    "Universidade/Clonar conte｣do digital.md",
+    "Import.md",
+    "Aprendizagem/Cursos/Orientação de objeto/Base orientação de objetos.md",
+    "Universidade/Geral/Ciclo de vida de dados.md",
+    "Excalidraw/Drawing 2024-02-18 19.07.25.excalidraw.md",
+    "Excalidraw",
+    "Aprendizagem/Cursos/Python/Tkinter/Geral.md",
+    "Universidade/Python/Desenvolvimento Rápido de Aplicações em Python/Theme 02 - RAD (rapid Applications Development).md",
+    "Gera.md",
+    "Universidade/Engenharia da computação/Theme 03 - Modelo de processos de desenvolvimento de software.md",
+    "Aprendizagem/Universidade/Clonar conteúdo digital.md",
+    "Pasted image 20240218185652.png",
+    "NetworkFilter.md",
+    "Ref/NetworkFilter.png",
+    "Pasted image 20240218182125.png",
+    "Universidade/Python/Desenvolvimento Rápido de Aplicações em Python/Theme 01 - Introdução.md",
+    "Universidade/Python",
+    "Universidade/Python/Aplic. de Cloud, Iot e Indústria 4.0 em Python",
+    "Aprendizagem/Cursos/Python/Tkinter",
+    "Aprendizagem/Cursos/Python/Untitled.md",
+    "Aprendizagem/Cursos/Python",
+    "DELETE.md",
+    "Universidade/Engenharia da computação/Theme 01 - Fundamentos de software e gerenciamento de projetos.md",
+    "Universidade/Engenharia da computação/Theme 02 - Fases do Desenvolvimento de Software.md",
+    "Universidade/Engenharia da computação",
+    "Universidade/Introdução à segurança da informação/Theme 01 - Introdução.md",
+    "Universidade/Python/Desenvolvimento Rápido de Aplicações em Python",
+    "Aprendizagem/Cursos/DotNet/ORM.md",
+    "Universidade/Inteligencia Artificial/Untitled.md",
+    "Aprendizagem/Cursos/Lógica de programação/Variáveis.md",
+    "Aprendizagem/Input via terminal.md",
+    "Aprendizagem/Cursos/Java/Aula_035",
+    "Aprendizagem/Cursos/Java/Aula_034",
+    "Aprendizagem/Cursos/Java/Aula_001",
+    "Ref/Modificadores de acesso CSharp.png",
+    "Ref/Curva de aprendizado Java.png",
+    "Untitled.canvas"
+  ]
+}
